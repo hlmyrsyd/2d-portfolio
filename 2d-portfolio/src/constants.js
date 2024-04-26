@@ -5,9 +5,7 @@ export const dialogueData = {
     I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
     Here is my <a href="https://github.com/hlmyrsyd" target="_blank">Github</a>!`,
     "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-    "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-    I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-    You'll learn how I built this portfolio you're currently playing through!`,
+    "sofa-table": `That's my sofa. I like to relax here and watch YouTube`,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :ftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
     bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
     resume: `This is my desk and on it is my linkedin page. <a href="https://www.linkedin.com/in/hilmyrasyad/" target="_blank">Check it out?</a>
